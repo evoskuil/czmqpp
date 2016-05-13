@@ -84,6 +84,7 @@
     <None Include="..\..\..\..\packaging\nuget\package.targets" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\include\czmq++\assert.hpp" />
     <ClInclude Include="..\..\..\..\include\czmq++\authenticator.hpp" />
     <ClInclude Include="..\..\..\..\include\czmq++\certificate.hpp" />
     <ClInclude Include="..\..\..\..\include\czmq++\context.hpp" />
